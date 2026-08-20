@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI医疗视频号内容审核 Skill"
+  short_description: "AI医疗视频号内容合规审核助手（脚本/标题/封面/字幕全流程）"
+  default_prompt: "Use $ai-medical-video-account-audit to audit this Video Account script before publishing."
